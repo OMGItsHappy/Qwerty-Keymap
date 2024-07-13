@@ -1,0 +1,1 @@
+start /WAIT /B "%~dp0" "kanata.exe" -c "minimal.kbd"
